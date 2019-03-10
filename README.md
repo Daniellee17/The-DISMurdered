@@ -7,8 +7,6 @@ Download DISMATH.pdf for detailed information  <br />
 Blocks / Program by: Danielle Espiritu, Graphics (photoshop) by: Marien Go  <br />
 A DISMATH project (2017)
 
-SCREENS
-
 CODING PROCESS
 
 ![image](https://user-images.githubusercontent.com/28699887/54081631-afeda380-4342-11e9-856a-38878d7727bd.png)
