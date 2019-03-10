@@ -1,11 +1,11 @@
 # The-DISMurdered
-An android application using MIT App Inventor 2 <br />
+A DISMATH project (2017)<br /> <br />
 Demo:https://www.youtube.com/watch?v=d0c4wHMD9mc&feature=youtu.be  <br />
 Download The DISMurdered.apk and run on your android device <br />
 Download DISMATH.aia and import to MIT App Inventor 2 for project files <br />
 Download DISMATH.pdf for detailed information  <br />
 Blocks / Program by: Danielle Espiritu, Graphics (photoshop) by: Marien Go  <br />
-A DISMATH project (2017)
+
 
 CODING PROCESS
 
