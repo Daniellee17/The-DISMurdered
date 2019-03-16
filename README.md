@@ -1,6 +1,6 @@
 # The-DISMurdered
-<h3> Blocks / Program by: Danielle Espiritu<br/> Graphics (photoshop) by: Marien Go</h3>  <br /><br />
-A DISMATH project (2017)<br /> 
+<h3> Blocks / Program by: Danielle Espiritu<br/> Graphics (photoshop) by: Marien Go</h3>
+A DISMATH project (2017)<br /> <br />
 Demo:https://www.youtube.com/watch?v=d0c4wHMD9mc&feature=youtu.be  <br />
 Download The DISMurdered.apk and run on your android device <br />
 Download DISMATH.aia and import to MIT App Inventor 2 for project files <br />
